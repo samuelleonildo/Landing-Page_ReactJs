@@ -4,6 +4,7 @@ Just practicing front-end design using **React + Vite**.
 
 ## Requirements
 - Node.Js
+- npm
 
 ## How to run yourself
 
